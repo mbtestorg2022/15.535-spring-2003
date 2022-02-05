@@ -37,14 +37,75 @@ Short reading assignments from the text, coursepack, and class handouts will be 
 Grading
 -------
 
-| HOMEWORK | POINTS |
-| --- | --- |
-| 3 Homework "Case" Assignments (count best 2) | 50 pts |
-| 2 Quizzes (in class) | 200 pts |
-| Analyst Reports/Presentation (Team) | 150 pts |
-| Due Diligence Report/Presentation (Team) | 50 pts |
-| Class Contribution (Participation/Other) | 50 pts |
-| **Total** | **500 pts** 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HOMEWORK
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 Homework "Case" Assignments (count best 2)
+{{< tdclose >}}
+{{< tdopen >}}
+50 pts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 Quizzes (in class)
+{{< tdclose >}}
+{{< tdopen >}}
+200 pts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Analyst Reports/Presentation (Team)
+{{< tdclose >}}
+{{< tdopen >}}
+150 pts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Due Diligence Report/Presentation (Team)
+{{< tdclose >}}
+{{< tdopen >}}
+50 pts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Contribution (Participation/Other)
+{{< tdclose >}}
+{{< tdopen >}}
+50 pts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Total**
+{{< tdclose >}}
+{{< tdopen >}}
+**500 pts**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Homework "Case" Assignments
 ---------------------------
